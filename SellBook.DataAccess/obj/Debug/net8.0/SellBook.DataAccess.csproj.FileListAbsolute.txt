@@ -1,0 +1,17 @@
+D:\dotNET_learning_project\SellBook.DataAccess\obj\Debug\net8.0\SellBook.DataAccess.csproj.AssemblyReference.cache
+D:\dotNET_learning_project\SellBook.DataAccess\obj\Debug\net8.0\SellBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNET_learning_project\SellBook.DataAccess\obj\Debug\net8.0\SellBook.DataAccess.AssemblyInfoInputs.cache
+D:\dotNET_learning_project\SellBook.DataAccess\obj\Debug\net8.0\SellBook.DataAccess.AssemblyInfo.cs
+D:\dotNET_learning_project\SellBook.DataAccess\obj\Debug\net8.0\SellBook.DataAccess.csproj.CoreCompileInputs.cache
+D:\dotNET_learning_project\SellBook.DataAccess\bin\Debug\net8.0\SellBook.DataAccess.deps.json
+D:\dotNET_learning_project\SellBook.DataAccess\bin\Debug\net8.0\SellBook.DataAccess.runtimeconfig.json
+D:\dotNET_learning_project\SellBook.DataAccess\bin\Debug\net8.0\SellBook.DataAccess.dll
+D:\dotNET_learning_project\SellBook.DataAccess\bin\Debug\net8.0\SellBook.DataAccess.pdb
+D:\dotNET_learning_project\SellBook.DataAccess\bin\Debug\net8.0\SellBook.Models.dll
+D:\dotNET_learning_project\SellBook.DataAccess\bin\Debug\net8.0\SellBook.Models.pdb
+D:\dotNET_learning_project\SellBook.DataAccess\obj\Debug\net8.0\SellBook.9303F1E2.Up2Date
+D:\dotNET_learning_project\SellBook.DataAccess\obj\Debug\net8.0\SellBook.DataAccess.dll
+D:\dotNET_learning_project\SellBook.DataAccess\obj\Debug\net8.0\refint\SellBook.DataAccess.dll
+D:\dotNET_learning_project\SellBook.DataAccess\obj\Debug\net8.0\SellBook.DataAccess.pdb
+D:\dotNET_learning_project\SellBook.DataAccess\obj\Debug\net8.0\SellBook.DataAccess.genruntimeconfig.cache
+D:\dotNET_learning_project\SellBook.DataAccess\obj\Debug\net8.0\ref\SellBook.DataAccess.dll
