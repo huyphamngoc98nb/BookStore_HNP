@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotNET_learning_project\\SellBook.Utility\\SellBook.Utility.csproj": {}
+    "D:\\dotNET_learning_project\\BookStore_Project\\BookStore_HNP\\SellBook.Utility\\SellBook.Utility.csproj": {}
   },
   "projects": {
-    "D:\\dotNET_learning_project\\SellBook.Utility\\SellBook.Utility.csproj": {
+    "D:\\dotNET_learning_project\\BookStore_Project\\BookStore_HNP\\SellBook.Utility\\SellBook.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotNET_learning_project\\SellBook.Utility\\SellBook.Utility.csproj",
+        "projectUniqueName": "D:\\dotNET_learning_project\\BookStore_Project\\BookStore_HNP\\SellBook.Utility\\SellBook.Utility.csproj",
         "projectName": "SellBook.Utility",
-        "projectPath": "D:\\dotNET_learning_project\\SellBook.Utility\\SellBook.Utility.csproj",
+        "projectPath": "D:\\dotNET_learning_project\\BookStore_Project\\BookStore_HNP\\SellBook.Utility\\SellBook.Utility.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\dotNET_learning_project\\SellBook.Utility\\obj\\",
+        "outputPath": "D:\\dotNET_learning_project\\BookStore_Project\\BookStore_HNP\\SellBook.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

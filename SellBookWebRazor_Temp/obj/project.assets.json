@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotNET_learning_project\\SellBookWebRazor_Temp\\SellBookWebRazor_Temp.csproj",
+      "projectUniqueName": "D:\\dotNET_learning_project\\BookStore_Project\\BookStore_HNP\\SellBookWebRazor_Temp\\SellBookWebRazor_Temp.csproj",
       "projectName": "SellBookWebRazor_Temp",
-      "projectPath": "D:\\dotNET_learning_project\\SellBookWebRazor_Temp\\SellBookWebRazor_Temp.csproj",
+      "projectPath": "D:\\dotNET_learning_project\\BookStore_Project\\BookStore_HNP\\SellBookWebRazor_Temp\\SellBookWebRazor_Temp.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\dotNET_learning_project\\SellBookWebRazor_Temp\\obj\\",
+      "outputPath": "D:\\dotNET_learning_project\\BookStore_Project\\BookStore_HNP\\SellBookWebRazor_Temp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
