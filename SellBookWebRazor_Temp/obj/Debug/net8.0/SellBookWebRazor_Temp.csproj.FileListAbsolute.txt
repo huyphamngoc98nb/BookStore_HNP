@@ -28,3 +28,34 @@ D:\dotNET_learning_project\SellBookWebRazor_Temp\obj\Debug\net8.0\refint\SellBoo
 D:\dotNET_learning_project\SellBookWebRazor_Temp\obj\Debug\net8.0\SellBookWebRazor_Temp.pdb
 D:\dotNET_learning_project\SellBookWebRazor_Temp\obj\Debug\net8.0\SellBookWebRazor_Temp.genruntimeconfig.cache
 D:\dotNET_learning_project\SellBookWebRazor_Temp\obj\Debug\net8.0\ref\SellBookWebRazor_Temp.dll
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\bin\Debug\net8.0\appsettings.Development.json
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\bin\Debug\net8.0\appsettings.json
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\bin\Debug\net8.0\SellBookWebRazor_Temp.staticwebassets.runtime.json
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\bin\Debug\net8.0\SellBookWebRazor_Temp.exe
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\bin\Debug\net8.0\SellBookWebRazor_Temp.deps.json
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\bin\Debug\net8.0\SellBookWebRazor_Temp.runtimeconfig.json
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\bin\Debug\net8.0\SellBookWebRazor_Temp.dll
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\bin\Debug\net8.0\SellBookWebRazor_Temp.pdb
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\obj\Debug\net8.0\SellBookWebRazor_Temp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\obj\Debug\net8.0\SellBookWebRazor_Temp.AssemblyInfoInputs.cache
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\obj\Debug\net8.0\SellBookWebRazor_Temp.AssemblyInfo.cs
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\obj\Debug\net8.0\SellBookWebRazor_Temp.csproj.CoreCompileInputs.cache
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\obj\Debug\net8.0\SellBookWebRazor_Temp.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\obj\Debug\net8.0\SellBookWebRazor_Temp.RazorAssemblyInfo.cache
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\obj\Debug\net8.0\SellBookWebRazor_Temp.RazorAssemblyInfo.cs
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\obj\Debug\net8.0\SellBookWebRazor_Temp.sourcelink.json
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\obj\Debug\net8.0\staticwebassets.build.json
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\obj\Debug\net8.0\staticwebassets.development.json
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\obj\Debug\net8.0\staticwebassets\msbuild.SellBookWebRazor_Temp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\obj\Debug\net8.0\staticwebassets\msbuild.build.SellBookWebRazor_Temp.props
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SellBookWebRazor_Temp.props
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SellBookWebRazor_Temp.props
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\obj\Debug\net8.0\scopedcss\bundle\SellBookWebRazor_Temp.styles.css
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\obj\Debug\net8.0\scopedcss\projectbundle\SellBookWebRazor_Temp.bundle.scp.css
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\obj\Debug\net8.0\SellBookWebRazor_Temp.dll
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\obj\Debug\net8.0\refint\SellBookWebRazor_Temp.dll
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\obj\Debug\net8.0\SellBookWebRazor_Temp.pdb
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\obj\Debug\net8.0\SellBookWebRazor_Temp.genruntimeconfig.cache
+D:\Personal Project\BookStore_HNP\SellBookWebRazor_Temp\obj\Debug\net8.0\ref\SellBookWebRazor_Temp.dll

@@ -1,14 +1,18 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using SellBook.DataAccess.Repository;
 using SellBook.DataAccess.Repository.IRepository;
 using SellBook.Models;
 using SellBook.Models.Models;
 using SellBook.Models.ViewModel;
+using SellBook.Utility;
 
 namespace SellBookWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = SD.Role_User_Admin)]
+
     public class ProductController : Controller
     {
 

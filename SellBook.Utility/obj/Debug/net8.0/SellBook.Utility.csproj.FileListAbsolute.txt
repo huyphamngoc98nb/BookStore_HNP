@@ -12,3 +12,18 @@ D:\dotNET_learning_project\SellBook.Utility\obj\Debug\net8.0\refint\SellBook.Uti
 D:\dotNET_learning_project\SellBook.Utility\obj\Debug\net8.0\SellBook.Utility.pdb
 D:\dotNET_learning_project\SellBook.Utility\obj\Debug\net8.0\SellBook.Utility.genruntimeconfig.cache
 D:\dotNET_learning_project\SellBook.Utility\obj\Debug\net8.0\ref\SellBook.Utility.dll
+D:\Personal Project\BookStore_HNP\SellBook.Utility\bin\Debug\net8.0\SellBook.Utility.deps.json
+D:\Personal Project\BookStore_HNP\SellBook.Utility\bin\Debug\net8.0\SellBook.Utility.runtimeconfig.json
+D:\Personal Project\BookStore_HNP\SellBook.Utility\bin\Debug\net8.0\SellBook.Utility.dll
+D:\Personal Project\BookStore_HNP\SellBook.Utility\bin\Debug\net8.0\SellBook.Utility.pdb
+D:\Personal Project\BookStore_HNP\SellBook.Utility\obj\Debug\net8.0\SellBook.Utility.csproj.AssemblyReference.cache
+D:\Personal Project\BookStore_HNP\SellBook.Utility\obj\Debug\net8.0\SellBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Project\BookStore_HNP\SellBook.Utility\obj\Debug\net8.0\SellBook.Utility.AssemblyInfoInputs.cache
+D:\Personal Project\BookStore_HNP\SellBook.Utility\obj\Debug\net8.0\SellBook.Utility.AssemblyInfo.cs
+D:\Personal Project\BookStore_HNP\SellBook.Utility\obj\Debug\net8.0\SellBook.Utility.csproj.CoreCompileInputs.cache
+D:\Personal Project\BookStore_HNP\SellBook.Utility\obj\Debug\net8.0\SellBook.Utility.sourcelink.json
+D:\Personal Project\BookStore_HNP\SellBook.Utility\obj\Debug\net8.0\SellBook.Utility.dll
+D:\Personal Project\BookStore_HNP\SellBook.Utility\obj\Debug\net8.0\refint\SellBook.Utility.dll
+D:\Personal Project\BookStore_HNP\SellBook.Utility\obj\Debug\net8.0\SellBook.Utility.pdb
+D:\Personal Project\BookStore_HNP\SellBook.Utility\obj\Debug\net8.0\SellBook.Utility.genruntimeconfig.cache
+D:\Personal Project\BookStore_HNP\SellBook.Utility\obj\Debug\net8.0\ref\SellBook.Utility.dll

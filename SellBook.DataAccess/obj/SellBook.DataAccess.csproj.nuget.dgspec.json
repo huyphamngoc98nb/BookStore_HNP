@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotNET_learning_project\\BookStore_Project\\BookStore_HNP\\SellBook.DataAccess\\SellBook.DataAccess.csproj": {}
+    "D:\\Personal Project\\BookStore_HNP\\SellBook.DataAccess\\SellBook.DataAccess.csproj": {}
   },
   "projects": {
-    "D:\\dotNET_learning_project\\BookStore_Project\\BookStore_HNP\\SellBook.DataAccess\\SellBook.DataAccess.csproj": {
+    "D:\\Personal Project\\BookStore_HNP\\SellBook.DataAccess\\SellBook.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotNET_learning_project\\BookStore_Project\\BookStore_HNP\\SellBook.DataAccess\\SellBook.DataAccess.csproj",
+        "projectUniqueName": "D:\\Personal Project\\BookStore_HNP\\SellBook.DataAccess\\SellBook.DataAccess.csproj",
         "projectName": "SellBook.DataAccess",
-        "projectPath": "D:\\dotNET_learning_project\\BookStore_Project\\BookStore_HNP\\SellBook.DataAccess\\SellBook.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\dotNET_learning_project\\BookStore_Project\\BookStore_HNP\\SellBook.DataAccess\\obj\\",
+        "projectPath": "D:\\Personal Project\\BookStore_HNP\\SellBook.DataAccess\\SellBook.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\nsoga\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal Project\\BookStore_HNP\\SellBook.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nsoga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,8 +34,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\dotNET_learning_project\\BookStore_Project\\BookStore_HNP\\SellBook.Models\\SellBook.Models.csproj": {
-                "projectPath": "D:\\dotNET_learning_project\\BookStore_Project\\BookStore_HNP\\SellBook.Models\\SellBook.Models.csproj"
+              "D:\\Personal Project\\BookStore_HNP\\SellBook.Models\\SellBook.Models.csproj": {
+                "projectPath": "D:\\Personal Project\\BookStore_HNP\\SellBook.Models\\SellBook.Models.csproj"
               }
             }
           }
@@ -50,19 +55,27 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.12, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.1, )"
             }
           },
           "imports": [
@@ -81,21 +94,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.307/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\dotNET_learning_project\\BookStore_Project\\BookStore_HNP\\SellBook.Models\\SellBook.Models.csproj": {
+    "D:\\Personal Project\\BookStore_HNP\\SellBook.Models\\SellBook.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotNET_learning_project\\BookStore_Project\\BookStore_HNP\\SellBook.Models\\SellBook.Models.csproj",
+        "projectUniqueName": "D:\\Personal Project\\BookStore_HNP\\SellBook.Models\\SellBook.Models.csproj",
         "projectName": "SellBook.Models",
-        "projectPath": "D:\\dotNET_learning_project\\BookStore_Project\\BookStore_HNP\\SellBook.Models\\SellBook.Models.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\dotNET_learning_project\\BookStore_Project\\BookStore_HNP\\SellBook.Models\\obj\\",
+        "projectPath": "D:\\Personal Project\\BookStore_HNP\\SellBook.Models\\SellBook.Models.csproj",
+        "packagesPath": "C:\\Users\\nsoga\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal Project\\BookStore_HNP\\SellBook.Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nsoga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -129,21 +147,25 @@
           "dependencies": {
             "Microsoft.AspNetCore.Mvc.ViewFeatures": {
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[2.3.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[8.0.12, )"
             }
           },
           "imports": [
@@ -162,7 +184,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.307/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

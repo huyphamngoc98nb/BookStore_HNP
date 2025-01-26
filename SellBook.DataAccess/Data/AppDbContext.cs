@@ -1,10 +1,11 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using SellBook.Models;
 using SellBook.Models.Models;
 
 namespace SellBook.DataAccess.Data
 {
-    public class AppDbContext : DbContext
+    public class AppDbContext : IdentityDbContext
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         {
@@ -13,8 +14,11 @@ namespace SellBook.DataAccess.Data
 
         public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products { get; set; }
+        public DbSet<ApplicationUser> ApplicationUsers { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            base.OnModelCreating(modelBuilder);
+
             modelBuilder.Entity<Category>().HasData(
                 new Category { Id = Guid.Parse("8a9b2967-bd3e-4d75-81f5-64c5e191a110"), Name = "Action", DisplayOrder = 1 },
     new Category { Id = Guid.Parse("8a9b2967-bd3e-4d75-81f5-64c5e191a111"), Name = "Adventure", DisplayOrder = 2 },

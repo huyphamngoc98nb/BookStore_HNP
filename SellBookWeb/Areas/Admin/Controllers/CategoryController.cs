@@ -1,11 +1,14 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using SellBook.DataAccess.Data;
 using SellBook.DataAccess.Repository.IRepository;
 using SellBook.Models;
+using SellBook.Utility;
 
 namespace SellBookWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = SD.Role_User_Admin)]
     public class CategoryController : Controller
     {
         private readonly IUnitOfWork _context;
