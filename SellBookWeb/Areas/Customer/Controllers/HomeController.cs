@@ -1,8 +1,10 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using SellBook.DataAccess.Repository.IRepository;
 using SellBook.Models;
 using SellBook.Models.Models;
 using System.Diagnostics;
+using System.Security.Claims;
 
 namespace SellBookWeb.Areas.Customer.Controllers
 {
@@ -24,8 +26,40 @@ namespace SellBookWeb.Areas.Customer.Controllers
         }
         public IActionResult Details(Guid id)
         {
-            Product objProduct = _context.Product.Get(row => row.Id == id, includeProperties: "Category");
-            return View(objProduct);
+            ShoppingCart cart = new()
+            {
+                Product = _context.Product.Get(row => row.Id == id, includeProperties: "Category"),
+                Count = 1,
+                ProductId = id
+
+            };
+            return View(cart);
+        }
+
+        [HttpPost]
+        [Authorize]
+        public IActionResult Details(ShoppingCart obj)
+        {
+            var claimsIdentity = (ClaimsIdentity)User.Identity;
+            var userId = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier).Value;
+
+            obj.ApplicationUserId = userId;
+
+            ShoppingCart cartFromDB = _context.ShoppingCart.Get(row => row.ApplicationUserId == userId && row.ProductId == obj.ProductId);
+
+            if (cartFromDB != null)
+            {
+                cartFromDB.Count += obj.Count;
+                _context.ShoppingCart.Update(cartFromDB);
+            }
+            else
+            {
+                _context.ShoppingCart.Add(obj);
+            }
+
+            _context.Save();
+
+            return RedirectToAction(nameof(Index));
         }
         public IActionResult Privacy()
         {
