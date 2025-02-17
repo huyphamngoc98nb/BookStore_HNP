@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SellBookWebRazor_Temp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6110ca3ba4b31c8e33838768ea23c89f4e18d74a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b79aa7146995b527a1c4f405bfad1950e305762")]
 [assembly: System.Reflection.AssemblyProductAttribute("SellBookWebRazor_Temp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SellBookWebRazor_Temp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

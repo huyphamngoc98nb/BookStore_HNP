@@ -11,6 +11,6 @@ namespace SellBook.Models.ViewModel
     {
         public IEnumerable<ShoppingCart>? ListCart {  get; set; }
 
-        public double OrderTotal;
+        public OrderHeader OrderHeader;
     }
 }
